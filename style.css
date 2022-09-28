@@ -1,0 +1,133 @@
+*{
+    padding: 0PX;
+    margin: 0PX;
+}
+body{
+    margin: 0;
+    padding: 0;
+    width: auto;
+}
+.main-div{
+    width: 75%;
+    margin: auto;
+    text-align: center;
+}
+
+/* div{
+    background-color: black;
+    color: beige;
+    /* width: 80%; */
+ 
+.red{
+   color: brown;
+}
+.akasi1{
+    color:skyblue;
+}
+h1{
+    background-color: rgb(83, 53, 202);
+     font-family: 'Open Sans', sans-serif; 
+    font-style: italic;
+    font-weight: 100;
+    text-align: center;
+    color: white;
+
+}
+.ptag1{
+    background-color: darkgreen;
+    font-family: 'Yellowtail', cursive; 
+    text-align: center;
+
+
+}
+.img1{
+    background-color: black;
+    text-align: center;
+    width: 100%;
+    margin-bottom: -5px;
+    
+}
+.cap{
+    color: black;
+    background-color: rgb(170, 56, 56);
+    font-family: 'Yellowtail', cursive;
+    text-align: center;
+    font-size: 80px;
+}
+.div2{
+    background-color: whitesmoke;
+}
+.ptag2{
+    color: black;
+}
+.h2_1{
+    color: black;
+    background-color: rgb(16, 102, 16);
+    font-family: 'Roboto', sans-serif;
+    text-align: center;
+    font-size: 70px;
+    font-weight: 100;
+}
+.black{
+    color: black;
+    text-align: center;
+}
+h3{
+    color: black;
+    background-color: rgb(34, 138, 34);
+    font-family: 'Roboto', sans-serif;
+    font-size: 70px;
+    font-weight: 100;
+    text-align: center;
+    }
+    .div3{
+        background-color: rgb(124, 154, 209);
+    }
+    .h5_1{
+        color: white;
+        font-family: 'Yellowtail', cursive;
+        text-align: center;
+        font-size: 40px;
+
+    }
+    .h5_2{
+        color: white;
+        text-align: center;
+        font-size: 30px;
+        font-family: 'Montserrat', sans-serif;
+    }
+    .ptag3{
+        color: white;
+        text-align: center;
+        font-family: 'Montserrat', sans-serif;
+
+    }
+    .ptag4{
+        background-color: black;
+        color: white;  
+    }
+    bold{
+        color: rgb(55, 55, 177);
+    }
+   img{
+    text-align: center;
+    width: 100px;
+   }
+   .input{
+    margin-top: 10px;
+   }
+  
+    .ww {
+        text-align: left;
+        width: 100%;
+        margin-left: 39%;
+        margin-top: -13px;
+        padding-bottom: 9px;
+    }
+
+ 
+    
+         
+
+
+
